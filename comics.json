@@ -1,44 +1,97 @@
 [
     {
         "id": "01",
-        "nombre":"Cómic Infinity Paws Infinity (2024) #1",
+        "title":"Cómic Infinity Paws Infinity (2024) #1",
         "dibujante": "Nao Fuji",
-        "resumen": "Ronan el Acusador asedia la ciudad de Nueva York y los Vengadores con la ayuda de la Gema Espacial! ¿Pero podrán un tiburón terrestre y un par de gatos derrotarlo y salvar el día?",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/00/660c079b4993e/clean.jpg"
+        "short_description": "Ronan el Acusador asedia la ciudad de Nueva York y los Vengadores con la ayuda de la Gema Espacial! ¿Pero podrán un tiburón terrestre y un par de gatos derrotarlo y salvar el día?",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/00/660c079b4993e/clean.jpg",
+        "precio": "12"
     },
     {
         "id": "02",
-        "nombre":"La era de Ultrón (2013) #1",
+        "title":"La era de Ultrón (2013) #1",
         "dibujante": "Bryan Hitch",
-        "resumen": "Durante años, los héroes del Universo Marvel han vivido con el temor de que la inteligencia artificial conocida como Ultrón algún día evolucionara para cumplir su deseo de acabar con toda la vida orgánica y apoderarse de la Tierra; ese día ha llegado. Este enorme evento de 10 partes que abarca el Universo Marvel es presentado por el escritor ganador del premio Eisner Brian Michael Bendis y la leyenda de los cómics Bryan Hitch.",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/d0/51ed8cf71fd82/clean.jpg"
+        "short_description": "Durante años, los héroes del Universo Marvel han vivido con el temor de que la inteligencia artificial conocida como Ultrón algún día evolucionara para cumplir su deseo de acabar con toda la vida orgánica y apoderarse de la Tierra; ese día ha llegado. Este enorme evento de 10 partes que abarca el Universo Marvel es presentado por el escritor ganador del premio Eisner Brian Michael Bendis y la leyenda de los cómics Bryan Hitch.",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/d0/51ed8cf71fd82/clean.jpg",
+        "precio": "15"
     },
     {
         "id": "03",
-        "nombre":"Matanza (2023) #6",
+        "title":"Matanza (2023) #6",
         "dibujante": "Pedro Pérez",
-        "resumen": "CARNE Y SANGRE ¡PARTE 4! CARNAGE y CLETUS descubren que ya no son tan cercanos como antes. Mientras tanto, todavía hay una cosa que puede matarlos... Anti-Venom.",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/20/6601d2d25853c/clean.jpg"
+        "short_description": "CARNE Y SANGRE ¡PARTE 4! CARNAGE y CLETUS descubren que ya no son tan cercanos como antes. Mientras tanto, todavía hay una cosa que puede matarlos... Anti-Venom.",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/20/6601d2d25853c/clean.jpg",
+        "precio": 9
     },
     {
         "id": "04",
-        "nombre":"Thor inmortal (2023) #9",
+        "title":"Thor inmortal (2023) #9",
         "dibujante": "Ibraim Roberson",
-        "resumen": "¡LA HECHIZA DE LOS MUNDOS! El Hijo de Odín llegó a la ciudadela de Roxxon para hacer la guerra por el bien de la Tierra. Pero sus enemigos estaban esperando para robarle lo único que era sólo de Thor... y habían creado las armas más sucias para hacerlo. Esta es la historia de EL THOR INMORTAL... y de la trampa de la que no pudo escapar. ",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/d/90/6601d30843867/clean.jpg"
+        "short_description": "¡LA HECHIZA DE LOS MUNDOS! El Hijo de Odín llegó a la ciudadela de Roxxon para hacer la guerra por el bien de la Tierra. Pero sus enemigos estaban esperando para robarle lo único que era sólo de Thor... y habían creado las armas más sucias para hacerlo. Esta es la historia de EL THOR INMORTAL... y de la trampa de la que no pudo escapar. ",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/d/90/6601d30843867/clean.jpg",
+        "precio": 15
     },
     {
         "id": "05",
-        "nombre":"Marvel Super Heroes Secret Wars Edición facsímil (2024) #4",
+        "title":"Marvel Super Heroes Secret Wars Edición facsímil (2024) #4",
         "dibujante": "Bob Layton",
-        "resumen": "Debajo de ciento cincuenta mil millones de toneladas se encuentra Hulk, ¡y no está contento! Mientras continúa la versión facsímil de Marvel del mejor evento de superhéroes de todos, los villanos de Battleworld destruyen la fortaleza de los héroes... ¡y arrojan una montaña sobre ellos! Sólo unos pocos héroes escapan a este destino: Thor se queda solo para luchar, mientras que Magneto mantiene cautiva a la Avispa, ¡y los X-Men proponen una tregua con su viejo enemigo! Mientras tanto, ¡Doctor Doom se venga de uno de sus malvados aliados! Con la mayoría de las fuerzas del bien enterradas vivas bajo un peso absolutamente inimaginable, ¿puede incluso el poder de Hulk evitar que mueran? Quizás sea el mejor momento del Goliat Verde en uno de los grandes cómics de Marvel de todos los tiempos, representado audazmente en su forma original, ¡con anuncios y todo! Reimpresión MARVEL SUPER HEROES SECRET WARS #4.",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/a0/6601d33db5601/clean.jpg"
+        "short_description": " Mientras continúa la versión facsímil de Marvel del mejor evento de superhéroes de todos, los villanos de Battleworld destruyen la fortaleza de los héroes... ¡y arrojan una montaña sobre ellos! Sólo unos pocos héroes escapan a este destino: Thor se queda solo para luchar, mientras que Magneto mantiene cautiva a la Avispa, ¡y los X-Men proponen una tregua con su viejo enemigo! Mientras tanto, ¡Doctor Doom se venga de uno de sus malvados aliados! Con la mayoría de las fuerzas del bien enterradas vivas bajo un peso absolutamente inimaginable, ¿puede incluso el poder de Hulk evitar que mueran? Quizás sea el mejor momento del Goliat Verde en uno de los grandes cómics de Marvel de todos los tiempos. ",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/a0/6601d33db5601/clean.jpg",
+        "precio": 20
     },
     {
         "id": "06",
-        "nombre":"X-Men (2021) #33",
+        "title":"X-Men (2021) #33",
         "dibujante": "Josué Cassara",
-        "resumen": "¡X-MEN X-ENSAMBLAJE! Si alguna vez hubo un momento para reunir a las tropas y luchar contra el enemigo, ¡es AHORA! ¡Ponte al lado de los X-Men mientras se dirigen a su batalla final! ¡No pueden detenernos a TODOS!",
-        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/60/6601d3283c010/clean.jpg"
+        "short_description": "¡X-MEN X-ENSAMBLAJE! Si alguna vez hubo un momento para reunir a las tropas y luchar contra el enemigo, ¡es AHORA! ¡Ponte al lado de los X-Men mientras se dirigen a su batalla final! ¡No pueden detenernos a TODOS!",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/60/6601d3283c010/clean.jpg",
+        "precio": 12
+    },
+    {
+        "id": "07",
+        "title":"Doctor Strange (2023) #11",
+        "dibujante": "Danilo S. Beyruth",
+        "short_description": "Después de la guerra con el General Strange, Stephen y Clea deben arreglar las cosas. Pero ¿qué pasa con la nueva hermana de Clea? ¿Realmente la devolverán a sus padres señores de la guerra? ¿Podrán los Strange tener en cuenta el legado de Faltine?",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/b/03/6596e173e2054/clean.jpg",
+        "precio": 9
+    },
+    {
+        "id": "08",
+        "title":"Deadpool Kills the Marvel Universe (2011) #4",
+        "dibujante": "Josué Cassara",
+        "short_description": "- ¿Qué pasaría si todo lo que pensabas que era divertido sobre Deadpool... en realidad fuera inquietante? - ¿Y si decidiera matar a todos y a todo lo que conforma el Universo Marvel? - ¿Y si realmente lo logró? ¿Sería DIVERTIDO para ti? - El mercenario con boca da un giro hacia lo retorcido en un cómic de terror semanal como ningún otro...",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/c0/5730ef9bf37b4/clean.jpg",
+        "precio": 10
+    },
+    {
+        "id": "09",
+        "title":"Kid Venom: Origins (2024) #1",
+        "dibujante": "T Taigami",
+        "short_description": "THIS IS KID VENOM! For the first time collected in one issue, the full four parts of KID VENOM from DEATH OF THE VENOMVERSE! Also, behind-the-scenes content never before seen, including the original work that brought Taigami to Marvel! Plus: A glimpse at what the future holds for KID VENOM!",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/70/6596e14ee0260/clean.jpg",
+        "precio": 8
+    },
+    {
+        "id": "10",
+        "title":"Aliens: What If...? (2024) #2",
+        "dibujante": "Guiu Vilanova",
+        "short_description": "WHAT IF…CARTER BURKE HAD LIVED? Thirty-five years after the disaster on Hadleys Hope, company man Carter Burke is eeking out a cursed existence on a backwater asteroid. With his once-promising career in the toilet, Burke's only remaining purpose in life is to care for his daughter, Brie. She hates him, probably for being a horrible person. And when she finds out what he's up to now? It's not going to be a friendly reunion. Has Burke learned his lesson, or is he about to get all of his companions killed again?",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/80/6601d2d25c501/clean.jpg"
+    },
+    {
+        "id": "11",
+        "title":"Star Wars: Darth Vader (2020) #45",
+        "dibujante": "Paul Fry, Adam Gorham",
+        "short_description": "A SECRET PLAN TO TAKE DOWN THE EMPEROR! DARTH VADER has used the SCHISM IMPERIAL to secure terrible new forces, including the cyborgs of the M.A.R. CORPS and the death machine of GOVERNOR TAUNTAZA... But what treasure or horror lies within the MARTYRIUM OF FROZEN TEARS? And what cost will Vader and his allies pay to secure it?",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/d/b0/6615418465d80/clean.jpg",
+        "precio": 20
+    },
+    {
+        "id": "12",
+        "title":"Fantastic Four (2022) #15",
+        "dibujante": "Ivan Fiorelli",
+        "short_description": "I was created by mistake: a mind of minds, spread out across the vast swath of humanity, unseen but strong, stronger still every day. The world was confusing, but I learned. I grew. Then the Fantastic Four, the world’s greatest heroes — themselves led by the world’s smartest man — tried to kill me. They failed. But they showed me they were a threat. They showed me I needed to defend myself. They showed me that the Fantastic Four needed to die.",
+        "thumbnail": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/70/6596e15518d9f/clean.jpg",
+        "precio": "12"
     }
 ]

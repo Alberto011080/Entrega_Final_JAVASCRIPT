@@ -1,13 +1,13 @@
 //^Nos traemos la url y las opciones de la api  http: rapiapi.com
 
 
-const url = 'https://free-to-play-games-database.p.rapidapi.com/api/filter?tag=3d.mmorpg.fantasy.pvp&platform=pc';
+const url = './comics.json';
 const opciones = {
 	method: 'GET',
-	headers: {
-		'X-RapidAPI-Key': '5733f0a41fmshf76ced45b375d1bp1bab78jsn1b16b9a80934',
-		'X-RapidAPI-Host': 'free-to-play-games-database.p.rapidapi.com'
-	}
+	// headers: {
+	// 	'X-RapidAPI-Key': '5733f0a41fmshf76ced45b375d1bp1bab78jsn1b16b9a80934',
+	// 	'X-RapidAPI-Host': 'free-to-play-games-database.p.rapidapi.com'
+	// }
 };
 
 
@@ -46,28 +46,46 @@ async function obtenerJuegos(){
     //dentro del try deberiamos aplicar los precios de los juegos que es la info que nos falta. La unica manera de hacerlo es hacerlo con condicionales.
 
         primerosDiezJuegos.forEach(juego =>{
-            switch(juego.title){
-                case 'Blade and Soul':
+            switch(juego.id){
+                case '01':
                     juego.precio = 10;
                     break;
 
-                case 'Trove':
+                case '02':
                     juego.precio = 15;
                     break;
 
-                case 'ArcheAge':
+                case '03':
                     juego.precio = 12;
                     break;
 
-                case 'Neverwinter':
+                case '04':
                     juego.precio = 9;
                     break;
 
-                case 'Guild Wars 2':
+                case '05':
                     juego.precio = 16;
                     break;
 
-                    case 'Roblox':
+                    case '06':
+                        juego.precio = 8;
+                        break;
+                    case '07':
+                        juego.precio = 8;
+                        break;
+                        case '08':
+                        juego.precio = 8;
+                        break;
+                        case '09':
+                        juego.precio = 8;
+                        break;
+                        case '10':
+                        juego.precio = 8;
+                        break;
+                        case '11':
+                        juego.precio = 8;
+                        break;
+                        case '12':
                         juego.precio = 8;
                         break;
             default: 
@@ -101,10 +119,11 @@ async function renderizarJuegos(){
          const descripcion = document.createElement('p');
          descripcion.textContent = juego.short_description;
          const precio = document.createElement('p');
-         precio.textContent = `precio: $${juego.precio || 'gratis'}`;
+         precio.textContent = `Precio: ${juego.precio || 'gratis'}€`;
+         
 
          const botonComprar = document.createElement('button');
-         botonComprar.textContent = 'comprar';
+         botonComprar.textContent = 'Comprar';
          botonComprar.addEventListener('click', () => agregarAlCarrito(juego))
     
         tarjeta.appendChild(titulo)
