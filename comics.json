@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "nombre":"Cómic Infinity Paws Infinity (2024) #1",
+        "dibujante": "Nao Fuji",
+        "resumen": "Ronan el Acusador asedia la ciudad de Nueva York y los Vengadores con la ayuda de la Gema Espacial! ¿Pero podrán un tiburón terrestre y un par de gatos derrotarlo y salvar el día?",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/00/660c079b4993e/clean.jpg"
+    },
+    {
+        "id": "02",
+        "nombre":"La era de Ultrón (2013) #1",
+        "dibujante": "Bryan Hitch",
+        "resumen": "Durante años, los héroes del Universo Marvel han vivido con el temor de que la inteligencia artificial conocida como Ultrón algún día evolucionara para cumplir su deseo de acabar con toda la vida orgánica y apoderarse de la Tierra; ese día ha llegado. Este enorme evento de 10 partes que abarca el Universo Marvel es presentado por el escritor ganador del premio Eisner Brian Michael Bendis y la leyenda de los cómics Bryan Hitch.",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/d0/51ed8cf71fd82/clean.jpg"
+    },
+    {
+        "id": "03",
+        "nombre":"Matanza (2023) #6",
+        "dibujante": "Pedro Pérez",
+        "resumen": "CARNE Y SANGRE ¡PARTE 4! CARNAGE y CLETUS descubren que ya no son tan cercanos como antes. Mientras tanto, todavía hay una cosa que puede matarlos... Anti-Venom.",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/20/6601d2d25853c/clean.jpg"
+    },
+    {
+        "id": "04",
+        "nombre":"Thor inmortal (2023) #9",
+        "dibujante": "Ibraim Roberson",
+        "resumen": "¡LA HECHIZA DE LOS MUNDOS! El Hijo de Odín llegó a la ciudadela de Roxxon para hacer la guerra por el bien de la Tierra. Pero sus enemigos estaban esperando para robarle lo único que era sólo de Thor... y habían creado las armas más sucias para hacerlo. Esta es la historia de EL THOR INMORTAL... y de la trampa de la que no pudo escapar. ",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/d/90/6601d30843867/clean.jpg"
+    },
+    {
+        "id": "05",
+        "nombre":"Marvel Super Heroes Secret Wars Edición facsímil (2024) #4",
+        "dibujante": "Bob Layton",
+        "resumen": "Debajo de ciento cincuenta mil millones de toneladas se encuentra Hulk, ¡y no está contento! Mientras continúa la versión facsímil de Marvel del mejor evento de superhéroes de todos, los villanos de Battleworld destruyen la fortaleza de los héroes... ¡y arrojan una montaña sobre ellos! Sólo unos pocos héroes escapan a este destino: Thor se queda solo para luchar, mientras que Magneto mantiene cautiva a la Avispa, ¡y los X-Men proponen una tregua con su viejo enemigo! Mientras tanto, ¡Doctor Doom se venga de uno de sus malvados aliados! Con la mayoría de las fuerzas del bien enterradas vivas bajo un peso absolutamente inimaginable, ¿puede incluso el poder de Hulk evitar que mueran? Quizás sea el mejor momento del Goliat Verde en uno de los grandes cómics de Marvel de todos los tiempos, representado audazmente en su forma original, ¡con anuncios y todo! Reimpresión MARVEL SUPER HEROES SECRET WARS #4.",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/2/a0/6601d33db5601/clean.jpg"
+    },
+    {
+        "id": "06",
+        "nombre":"X-Men (2021) #33",
+        "dibujante": "Josué Cassara",
+        "resumen": "¡X-MEN X-ENSAMBLAJE! Si alguna vez hubo un momento para reunir a las tropas y luchar contra el enemigo, ¡es AHORA! ¡Ponte al lado de los X-Men mientras se dirigen a su batalla final! ¡No pueden detenernos a TODOS!",
+        "imagen": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/60/6601d3283c010/clean.jpg"
+    }
+]
